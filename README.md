@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7sakshi7" alt="7sakshi7" /></a> </p>
 
-![](https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg)
-<img src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" alt="Image" width="200"/>
 - 🔭 I’m currently working on **Mobile App Development**
 
 - 🌱 I’m currently learning **Javascript**
@@ -14,11 +13,6 @@
 - 👯 I’m looking to collaborate on **Open Source**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-[<img align="left"width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sakshi-agarwal-518850206/)&nbsp;&nbsp;&nbsp;&nbsp;
-[GeeksforGeeks <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />](https://auth.geeksforgeeks.org/user/sakshiagarwal772002/practice/)
-<!--  [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sakshiagarwal772002/practice/) -->
-</p>
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />](https://auth.geeksforgeeks.org/user/sakshiagarwal772002/practice/)
  
 <h3 align="left">Languages and Tools:</h3>
