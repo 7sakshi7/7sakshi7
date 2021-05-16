@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7sakshi7" alt="7sakshi7" /></a> </p>
 
-![](https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg)
+<p width="30px" height="30px align="right">![](https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg)
 - 🔭 I’m currently working on **Mobile App Development**
 
 - 🌱 I’m currently learning **Javascript**
