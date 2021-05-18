@@ -13,7 +13,9 @@
 - 👯 I’m looking to collaborate on **Open Source**
 
 <h3 align="left">Connect with me:</h3>
-[LinkedIn](https://www.linkedin.com/in/sakshi-agarwal-518850206/)<br>
+<a href="https://www.linkedin.com/in/sakshi-agarwal-518850206/">
+  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sakshiagarwal772002/practice/)
  
 <h3 align="left">Languages and Tools:</h3>
