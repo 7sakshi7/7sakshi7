@@ -8,7 +8,7 @@
 <img src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" alt="Image" width="200"/>
 - 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Node Js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
