@@ -1,5 +1,5 @@
 <h1 align="center">Hey Guys! 👋, I'm Sakshi Agarwal</h1>
-<marquee>Hello</marquee>
+
 <h3 align="center">I am a technocrat from India. Open to explore and learn new things every single day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7sakshi7&label=Profile%20views&color=0e75b6&style=flat" alt="7sakshi7" /> </p>
@@ -9,7 +9,7 @@
 <img align="center" src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" alt="Image" width="600" height="500"/>
 - 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Flutter,ML/AI**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
