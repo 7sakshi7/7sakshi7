@@ -5,7 +5,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=7sakshi7&label=Profile%20views&color=0e75b6&style=flat" alt="7sakshi7" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7sakshi7" alt="7sakshi7" /></a> </p> -->
-<h3 align="right"><img src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" alt="Image" width="500" height="400"/></h3>
+ <img align="right" src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" width="400" height="320" />
+
+<!-- <h3 align="right"><img src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" alt="Image" width="500" height="400"/></h3> -->
 <!-- <img align="left" src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" alt="Image" width="600" height="500"/> -->
 
 - 🔭 I’m currently working on **Mobile App Development**
