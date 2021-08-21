@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7sakshi7" alt="7sakshi7" /></a> </p> -->
 
-<img src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" alt="Image" width="200"/>
+<img src="https://github.com/7sakshi7/7sakshi7/blob/main/images.jpg" alt="Image" width="500" height="500" style="align-items:center;"/>
 - 🔭 I’m currently working on **Mobile App Development**
 
 - 🌱 I’m currently learning **Node Js**
