@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **Flutter,ML/AI**
+- 🌱 I’m currently learning **React js,ML/AI**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
