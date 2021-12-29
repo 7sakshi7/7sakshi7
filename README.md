@@ -1,4 +1,4 @@
-<h1 align="center">Hey Guys! 👋, I'm Sakshi Agarwal</h1>
+<h1 align="center">Hey Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sakshi Agarwal</h1>
 
 <h3 align="center">I am a technocrat from India. Open to explore and learn new things every single day</h3>
 
