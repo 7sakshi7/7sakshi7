@@ -13,9 +13,9 @@
 <br>
 
 
-- 🔭 I’m currently working on **Mobile App Development**
+- 🔭 I’m currently working on **Mobile App Development and MERN Apps**
 
-- 🌱 I’m currently learning **React js,ML/AI**
+- 🌱 I’m currently learning **MERN,Android**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
